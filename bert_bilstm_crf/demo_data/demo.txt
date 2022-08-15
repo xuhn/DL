@@ -1,0 +1,10 @@
+杭州五洲国际	B-cityE-cityB-poiI-poiI-poiE-poi
+浙江省杭州市余杭乔司街道博卡路0号博卡制衣	B-provI-provE-provB-cityI-cityE-cityB-districtE-districtB-townI-townI-townE-townB-roadI-roadE-roadB-roadnoE-roadnoB-poiI-poiI-poiE-poi
+浙江诸暨市暨阳八一新村00幢	B-provE-provB-districtI-districtE-districtB-townE-townB-poiI-poiI-poiE-poiB-housenoI-housenoE-houseno
+杭州市武林广场杭州大厦商城A座九层	B-cityI-cityE-cityB-poiI-poiI-poiE-poiB-subpoiI-subpoiI-subpoiE-subpoiB-subpoiE-subpoiB-housenoE-housenoB-floornoE-floorno
+浙江省杭州市拱墅区登云路0000号时代电子市场	B-provI-provE-provB-cityI-cityE-cityB-districtI-districtE-districtB-roadI-roadE-roadB-roadnoI-roadnoI-roadnoI-roadnoE-roadnoB-poiI-poiI-poiI-poiI-poiE-poi
+浙江省宁波市慈溪市宗汉街道联丰公寓00栋	B-provI-provE-provB-cityI-cityE-cityB-districtI-districtE-districtB-townI-townI-townE-townB-poiI-poiI-poiE-poiB-housenoI-housenoE-houseno
+浙江省温州市鹿城区劳务市场跨境电商园00楼艺网科技有限公司	B-provI-provE-provB-cityI-cityE-cityB-districtI-districtE-districtB-poiI-poiI-poiE-poiB-devzoneI-devzoneI-devzoneI-devzoneE-devzoneB-floornoI-floornoE-floornoB-subpoiI-subpoiI-subpoiI-subpoiI-subpoiI-subpoiI-subpoiE-subpoi
+康中路00号康城工业园00幢0楼	B-roadI-roadE-roadB-roadnoI-roadnoE-roadnoB-devzoneI-devzoneI-devzoneI-devzoneE-devzoneB-housenoI-housenoE-housenoB-floornoE-floorno
+金华永康市城西工业区蓝天路坊培电脑	B-cityE-cityB-districtI-districtE-districtB-devzoneI-devzoneI-devzoneI-devzoneE-devzoneB-roadI-roadE-roadB-poiI-poiI-poiE-poi
+宜山人民路0000号后栋纸巾厂	B-townE-townB-roadI-roadE-roadB-roadnoI-roadnoI-roadnoI-roadnoE-roadnoB-housenoE-housenoB-poiI-poiE-poi
